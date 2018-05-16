@@ -1,4 +1,4 @@
-/*
+
  * Copyright 2012-2018 the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -80,6 +80,7 @@ public class SampleAtmosphereApplication {
 	}
 
 	public static void main(String[] args) {
+		//my comment
 		SpringApplication.run(SampleAtmosphereApplication.class, args);
 	}
 
